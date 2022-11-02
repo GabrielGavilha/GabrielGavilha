@@ -1,7 +1,8 @@
 ## Olá, sou o Gabriel e seja bem vindo(a) ao meu perfil aqui no GitHub :)
 
-- 🌱 Estudando: Desenvolvimento Front-End na Alura;
-- 👨‍🎓Aprendendo: HTML & CSS
+- 🌱 Estudando: Desenvolvedor Full Stack | 🤘 OneBitCode ;
+- 🚀 Linguagens já aprendidas:   HTML | CSS | SASS ;
+- 👨‍🎓Aprendendo atualmente: Bootstrap.
 
 <div align="center">
   <a href="https://github.com/GabrielGavilha">
